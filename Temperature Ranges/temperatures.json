@@ -1,0 +1,85 @@
+{
+    "temperatures" : 
+    [
+        {
+            "date" : "27/04/2021",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2020",
+            "temperature_in_celsius" : 21
+        },
+        {
+            "date" : "27/04/2019",
+            "temperature_in_celsius" : 22
+        },
+        {
+            "date" : "27/04/2018",
+            "temperature_in_celsius" : 21
+        },
+        {
+            "date" : "27/04/2017",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2016",
+            "temperature_in_celsius" : 24
+        },
+        {
+            "date" : "27/04/2015",
+            "temperature_in_celsius" : 21
+        },
+        {
+            "date" : "27/04/2014",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2013",
+            "temperature_in_celsius" : 25
+        },
+        {
+            "date" : "27/04/2012",
+            "temperature_in_celsius" : 27
+        },
+        {
+            "date" : "27/04/2011",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2010",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2009",
+            "temperature_in_celsius" : 25
+        },
+        {
+            "date" : "27/04/2008",
+            "temperature_in_celsius" : 22
+        },
+        {
+            "date" : "27/04/2007",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2006",
+            "temperature_in_celsius" : 24
+        },
+        {
+            "date" : "27/04/2005",
+            "temperature_in_celsius" : 22
+        },
+        {
+            "date" : "27/04/2004",
+            "temperature_in_celsius" : 23
+        },
+        {
+            "date" : "27/04/2003",
+            "temperature_in_celsius" : 29
+        },
+        {
+            "date" : "27/04/2002",
+            "temperature_in_celsius" : 28
+        }
+    ]
+}
